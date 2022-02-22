@@ -1,0 +1,64 @@
+[12-Feb-2022 08:11:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/florance/florance_source/vendor/composer/ClassLoader.php(480): include()
+#1 /home/florance/florance_source/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/florance/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/florance/florance_source/vendor/composer/ClassLoader.php(480): include('/home/florance/...')
+#5 /home/florance/florance_source/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/florance/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/helpers.php in /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[12-Feb-2022 08:14:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/florance/florance_source/vendor/composer/ClassLoader.php(480): include()
+#1 /home/florance/florance_source/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/florance/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/florance/florance_source/vendor/composer/ClassLoader.php(480): include('/home/florance/...')
+#5 /home/florance/florance_source/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/florance/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/helpers.php in /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[12-Feb-2022 08:16:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/florance/florance_source/vendor/composer/ClassLoader.php(480): include()
+#1 /home/florance/florance_source/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/florance/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/florance/florance_source/vendor/composer/ClassLoader.php(480): include('/home/florance/...')
+#5 /home/florance/florance_source/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/florance/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/helpers.php in /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[12-Feb-2022 08:17:07 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34. in /home/florance/florance_source/vendor/composer/platform_check.php on line 24
+[12-Feb-2022 08:17:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/florance/florance_source/vendor/composer/ClassLoader.php(480): include()
+#1 /home/florance/florance_source/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/florance/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/florance/florance_source/vendor/composer/ClassLoader.php(480): include('/home/florance/...')
+#5 /home/florance/florance_source/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/florance/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/helpers.php in /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[12-Feb-2022 08:37:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/florance/florance_source/vendor/composer/ClassLoader.php(480): include()
+#1 /home/florance/florance_source/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/florance/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/florance/florance_source/vendor/composer/ClassLoader.php(480): include('/home/florance/...')
+#5 /home/florance/florance_source/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/florance/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/helpers.php in /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[12-Feb-2022 08:47:00 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34. in /home/florance/florance_source/vendor/composer/platform_check.php on line 24
+[12-Feb-2022 08:47:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/florance/florance_source/vendor/composer/ClassLoader.php(480): include()
+#1 /home/florance/florance_source/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/florance/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/florance/florance_source/vendor/composer/ClassLoader.php(480): include('/home/florance/...')
+#5 /home/florance/florance_source/vendor/composer/ClassLoader.php(346): Composer\Autoload\includeFile('/home/florance/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/helpers.php in /home/florance/florance_source/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[12-Feb-2022 08:49:24 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34. in /home/florance/florance_source/vendor/composer/platform_check.php on line 24
+[12-Feb-2022 08:50:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34. in /home/florance/florance_source/vendor/composer/platform_check.php on line 24
